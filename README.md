@@ -1,7 +1,24 @@
-# WebProgrammingFall2020
+# web-programmingfall2020
 
-Web Programming course and class project for the fall of 2020
+## Project setup
+```
+npm install
+```
 
-## Third Day
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-We are learning about git and github
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
